@@ -3,10 +3,10 @@
 </p>
 
 <p align="center">
-  <a href="README.md">中文</a> · <a href="README.en.md">English</a> · <a href="https://github.com/VegaBowl">GitHub</a> · <a href="mailto:2310306233@stu.pku.edu.cn">Email</a>
+   <a href="https://github.com/VegaBowl">GitHub</a> · <a href="mailto:2310306233@stu.pku.edu.cn">Email</a>
 </p>
 
-# Hi, I'm Bingyao Cai · 蔡炳耀 👋
+# Hi, I'm Bingyao Cai 👋
 
 **Undergraduate medical student at Peking University Health Science Center · Five-year Clinical Medicine program, entering class of 2023 · Growing into medical AI research**
 
