@@ -101,7 +101,11 @@ In osteochondral lesion research, my single-cell analysis focused on matrix remo
 - **Dynamics and regulation:** Slingshot / Monocle 3 pseudotime, hdWGCNA co-expression modules, and DoRothEA transcription-factor activity to examine remodeling-associated transcriptional programs.
 - **Cellular interactions:** CellChat / NicheNet communication and ligand–target inference, connecting stromal–immune hypotheses with experimental and clinical findings.
 
-I was also the **third author of a study combining proteomics and single-cell transcriptomics in Helicobacter pylori–related gastric carcinogenesis**, published in [Cancer Biology & Medicine (2025)](https://doi.org/10.20892/j.issn.2095-3941.2025.0077).
+I was also the **third author of a study combining proteomics and single-cell transcriptomics in Helicobacter pylori–related gastric carcinogenesis**, published in [Cancer Biology & Medicine (2025)](https://doi.org/10.20892/j.issn.2095-3941.2025.0077
+        
+        
+        
+        ).
 
 🧩 **Connections I want to explore:** representation learning for cell states and gene expression, cross-batch and cross-omic integration, and fusion of molecular information with imaging and clinical phenotypes. These are future research interests grounded in my existing bioinformatics experience.
 
@@ -129,10 +133,18 @@ Earlier projects included childhood/adolescent obesity and hypertension, and res
 
 **Selected publications**
 
-- **Co-first author** · *Bone tracer uptake in SPECT/CT is a potential indicator for treatment decision-making in cystic osteochondral lesions of the talus.* **Bone & Joint Research**, 2026;15(7):784–794. [DOI](https://doi.org/10.1302/2046-3758.157.BJR-2025-0635.R1)
+- **Co-first author** · *Bone tracer uptake in SPECT/CT is a potential indicator for treatment decision-making in cystic osteochondral lesions of the talus.* **Bone & Joint Research**, 2026;15(7):784–794. [DOI](https://doi.org/10.1302/2046-3758.157.BJR-2025-0635.R1
+        
+        
+        
+        )
 - **Co-first author** · MRI“跳跃斑点征”可用于预测囊性距骨骨软骨损伤微骨折手术的长期预后. **生物医学转化**, 2026;7(1):88–93,108. [Chinese-language publication]
 - **Co-first author** · 生活方式对大学生超重肥胖与血压偏高及其共病的影响. **中国儿童保健杂志**, 2024;32(11):1179–1185. [Chinese-language publication]
-- **Third author** · *Proteomic profiling and scRNA sequencing identify signatures associated with Helicobacter pylori infection and risk of developing gastric cancer.* **Cancer Biology & Medicine**, 2025;22(8):946–963. [DOI](https://doi.org/10.20892/j.issn.2095-3941.2025.0077)
+- **Third author** · *Proteomic profiling and scRNA sequencing identify signatures associated with Helicobacter pylori infection and risk of developing gastric cancer.* **Cancer Biology & Medicine**, 2025;22(8):946–963. [DOI](https://doi.org/10.20892/j.issn.2095-3941.2025.0077
+        
+        
+        
+        )
 
 **Projects and presentations**
 
